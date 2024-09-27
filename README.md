@@ -17,15 +17,15 @@ Welcome to my GitHub! I'm Mohsin, a dedicated Full Stack Developer who loves bui
 
 ## 🌟 Featured Projects
 
-- [**React DnD Example**](https://github.com/MohsinGhani/react-dnd-example) - A project demonstrating drag-and-drop functionality in React.
-- [**Campus Recruitment System**](https://github.com/MohsinGhani/ng4-CampusRecruitmentSystem) - A recruitment management system built with Angular.
+- [**Non-Profit Project**](https://finedeeds.com) - A project build for charity for a non profitorganization.
+- [**Education System**](https://learningwithparents.com) - A schooling system.
 
 ---
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [Mohsin Ghani](https://linkedin.com/in/yourprofile)
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
+- **LinkedIn:** [Mohsin Ghani](https://www.linkedin.com/in/mohsin-ghani)
+- **Email:** [youremail@example.com](mailto:Mohsinghani.777@gmail.com)
 
 🌟 *Let's build something amazing together!* 🌟
 
