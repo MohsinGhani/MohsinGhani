@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm Mohsin, a dedicated Full Stack Developer who loves bui
 ## 📫 Get in Touch
 
 - **LinkedIn:** [Mohsin Ghani](https://www.linkedin.com/in/mohsin-ghani)
-- **Email:** [youremail@example.com](mailto:Mohsinghani.777@gmail.com)
+- **Email:** [mohsinghani.777@gmail.com](mailto:Mohsinghani.777@gmail.com)
 
 🌟 *Let's build something amazing together!* 🌟
 
